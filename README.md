@@ -6,3 +6,5 @@ Two options for image modification is GREYSCALE and SOBEL.
 Greyscale obviously displays a desaturated version of the original image in the right frame.
 The Sobel is used for edge detection, using SOBEL operator.
 
+(the app runs by java ImageLab.java)
+
