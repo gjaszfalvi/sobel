@@ -8,3 +8,6 @@ The Sobel is used for edge detection, using SOBEL operator.
 
 (the app runs by java ImageLab.java)
 
+A sort presentation of the app's functionality:
+https://youtu.be/9LfWgcu1DR0
+
